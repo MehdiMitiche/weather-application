@@ -1,0 +1,11 @@
+span{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic
+}
+.info{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 110;
+    padding-left: 20px;
+}
